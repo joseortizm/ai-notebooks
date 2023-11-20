@@ -1,6 +1,6 @@
 # ai-notebooks
 
-Some examples from my Notebooks.
+Examples from my Notebooks.
 
 
 
